@@ -30,6 +30,6 @@ if __name__ == '__main__':
 
 	soup = BeautifulSoup( unicode(htmldata.read(),'utf-8') )
 
-	print( soup.findAll('div',{'class':'hop_box'}) )
+	print( soup.findAll('div',{'class':'box02'}) )
 
 	htmldata.close()
