@@ -32,8 +32,14 @@ def sphinx_title(txt):
 	title_line = header_line(txt)
 	return txt + br + title_line + br
 
-def sphinx_body(img,txt):
-	pass
+#def sphinx_body_image(num,url,txt):
+#	name = '|pic_%i|' % num
+#
+#	image = '.. {name} image:: {url}\n'.format('name'=name,'url'=url)
+#	option = '   :alt: {alt}'.format('alt'=txt)
+#
+#	return image + option
+
 
 
 #### main ####
@@ -45,10 +51,17 @@ if __name__ == '__main__':
 
 	soup = BeautifulSoup( unicode(htmldata.read(),'utf-8') )
 
-	box = soup.findAll('div',{'class':'box02'})[1]
+	box = soup.findAll('div',{'class':'box02'})[1]	#forloop
 
 	title = box.contents[1].contents[0]['alt']
-	print( sphinx_title(title) )
+#	print( sphinx_title(title) )
 
+	lessons = box.find('div',{'class':'box02_txt_hop'})
+	texts = lessons.findAll('div',{'class':'hop_txt'})
+	images = lessons.findAll('div',{'class':'hop_image'})
+	for text in texts:
+		print( text.renderContents() )
+	for image in images:
+		print(image.contents[0]['src'])
 
 	htmldata.close()
