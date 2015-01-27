@@ -4,8 +4,7 @@
 from BeautifulSoup import BeautifulSoup
 import re,urllib2
 
-base_url = 'http://kaigoouen.net/'
-image_url = base_url + 'img/'
+base_url = 'http://kaigoouen.net'
 
 pages = {
 	'hop':{
@@ -30,16 +29,18 @@ def header_line(txt):
 #### for make .rst files ####
 def sphinx_title(txt):
 	title_line = header_line(txt)
-	return txt + br + title_line + br
+	return txt + br + title_line + br*3
 
-#def sphinx_body_image(num,url,txt):
-#	name = '|pic_%i|' % num
-#
-#	image = '.. {name} image:: {url}\n'.format('name'=name,'url'=url)
-#	option = '   :alt: {alt}'.format('alt'=txt)
-#
-#	return image + option
+def sphinx_body_image(num,url,txt):
+	name = '|pic_%i|' % num
 
+	image = '\n.. {name} image:: {url}\n'.format(name=name,url=url)
+
+	option = '   :alt: {alt}'.format(alt=txt) + br*2
+
+	line = '='*len(name) + '  ' + '='*len(txt)*2 + br
+
+	return image + option + line + name + '  ' + txt + br + line 
 
 
 #### main ####
@@ -59,9 +60,14 @@ if __name__ == '__main__':
 	lessons = box.find('div',{'class':'box02_txt_hop'})
 	texts = lessons.findAll('div',{'class':'hop_txt'})
 	images = lessons.findAll('div',{'class':'hop_image'})
-	for text in texts:
-		print( text.renderContents() )
+	#for text in texts:
+		#print( text.renderContents() )
+
 	for image in images:
-		print(image.contents[0]['src'])
+		i = 1
+		src = base_url + image.contents[0]['src']
+		print( sphinx_body_image(i,src,"testお") )
+
+		i += 1
 
 	htmldata.close()
