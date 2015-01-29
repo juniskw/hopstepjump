@@ -29,18 +29,18 @@ def header_line(txt):
 #### for make .rst files ####
 def sphinx_title(txt):
 	title_line = header_line(txt)
-	return txt + br + title_line + br*3
+	return br + txt + br + title_line + br
 
-def sphinx_body_image(num,url,txt):
-	name = '|pic_%i|' % num
+def sphinx_body_image(name,url,txt):
+	name = str('|%s|' % name)	# strしないとunicode型になりUnicodeDecodeError
 
 	image = '\n.. {name} image:: {url}\n'.format(name=name,url=url)
 
 	option = '   :alt: {alt}'.format(alt=txt) + br*2
 
-	line = '='*len(name) + '  ' + '='*len(txt)*2 + br
+	line = '='*len(name) + '  ' + '='*len(txt.decode('utf-8')) + br
 
-	return image + option + line + name + '  ' + txt + br + line 
+	return image + option + line + name + '  |' + txt + br + line
 
 
 #### main ####
@@ -52,22 +52,23 @@ if __name__ == '__main__':
 
 	soup = BeautifulSoup( unicode(htmldata.read(),'utf-8') )
 
-	box = soup.findAll('div',{'class':'box02'})[1]	#forloop
+	for box in soup.findAll('div',{'class':'box02'}):
 
-	title = box.contents[1].contents[0]['alt']
-#	print( sphinx_title(title) )
+		lessons = box.find('div',{'class':'box02_txt_hop'})
 
-	lessons = box.find('div',{'class':'box02_txt_hop'})
-	texts = lessons.findAll('div',{'class':'hop_txt'})
-	images = lessons.findAll('div',{'class':'hop_image'})
-	#for text in texts:
-		#print( text.renderContents() )
+		if lessons is not None:
 
-	for image in images:
-		i = 1
-		src = base_url + image.contents[0]['src']
-		print( sphinx_body_image(i,src,"testお") )
+			title = box.contents[1].contents[0]['alt']
+			print( sphinx_title(title) )
 
-		i += 1
+			texts = lessons.findAll('div',{'class':'hop_txt'})
+			images = lessons.findAll('div',{'class':'hop_image'})
+			texts = iter(texts)
+
+			for image in images:
+				src = base_url + image.contents[0]['src']
+				name = re.search(r'pic_\d+',src).group(0)
+				text = texts.next().renderContents()
+				print( sphinx_body_image(name,src,text) )
 
 	htmldata.close()
