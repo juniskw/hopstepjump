@@ -36,9 +36,14 @@ def sphinx_body_image(name,url,txt):
 
 	image = '\n.. {name} image:: {url}\n'.format(name=name,url=url)
 
-	option = '   :alt: {alt}'.format(alt=txt) + br*2
+	option = '   :alt: 参考画像' + br*2	#
 
 	line = '='*len(name) + '  ' + '='*len(txt.decode('utf-8')) + br
+
+	# if '\n' in text: 改行前後で分けて' '*len(name)+'  |'の後に次の行
+	if '\n' in txt:
+		txts = txt.split('\n')
+		txt = reduce(lambda x,y: x + '\n{name_space}  |'.format( name_space=' '*len(name) ) + y,txts)
 
 	return image + option + line + name + '  |' + txt + br + line
 
