@@ -5,20 +5,19 @@ from BeautifulSoup import BeautifulSoup
 import re,urllib2
 
 base_url = 'http://kaigoouen.net'
-
-pages = {
+hopstepjump = {
 	'hop':{
-		'url':'http://kaigoouen.net/program/gymnastics/gymnastics_2_1.html',
-		'page_count':25,
+		'index':2,
+		'last_page':25,
 	},
 	'step':{
-		'url':'http://kaigoouen.net/program/gymnastics/gymnastics_3_1.html',
-		'page_count':39,
+		'index':3,
+		'last_page':0,
 	},
 	'jump':{
-		'url':'http://kaigoouen.net/program/gymnastics/gymnastics_4_1.html',
-		'page_count':46,		  
-	}
+		'index':4,
+		'last_page':0,
+	},
 }
 
 #### support ####
@@ -50,30 +49,34 @@ def sphinx_body_image(name,url,txt):
 
 #### main ####
 if __name__ == '__main__':
-	page = pages['hop']
-	url = page['url']
+	page = hopstepjump['hop']
 
-	htmldata = urllib2.urlopen(url)
+	p = 1
+	while p <= page['last_page']:
+		url = base_url + '/program/gymnastics/gymnastics_{index}_{page}.html'.format(index=page['index'],page=p)
 
-	soup = BeautifulSoup( unicode(htmldata.read(),'utf-8') )
+		htmldata = urllib2.urlopen(url)
 
-	for box in soup.findAll('div',{'class':'box02'}):
+		soup = BeautifulSoup( unicode(htmldata.read(),'utf-8') )
 
-		lessons = box.find('div',{'class':'box02_txt_hop'})
+		for box in soup.findAll('div',{'class':'box02'}):
 
-		if lessons is not None:
+			lessons = box.find('div',{'class':'box02_txt_hop'})
 
-			title = box.contents[1].contents[0]['alt']
-			print( sphinx_title(title) )
+			if lessons is not None:
 
-			texts = lessons.findAll('div',{'class':'hop_txt'})
-			images = lessons.findAll('div',{'class':'hop_image'})
-			texts = iter(texts)
+				title = box.contents[1].contents[0]['alt']
+				print( sphinx_title(title) )
 
-			for image in images:
-				src = base_url + image.contents[0]['src']
-				name = re.search(r'pic_\d+',src).group(0)
-				text = texts.next().renderContents()
-				print( sphinx_body_image(name,src,text) )
+				texts = lessons.findAll('div',{'class':'hop_txt'})
+				images = lessons.findAll('div',{'class':'hop_image'})
+				texts = iter(texts)
 
-	htmldata.close()
+				for image in images:
+					src = base_url + image.contents[0]['src']
+					name = re.search(r'pic_\d+',src).group(0)
+					text = texts.next().renderContents()
+					print( sphinx_body_image(name,src,text) )
+
+		htmldata.close()
+		p += 1
