@@ -21,11 +21,14 @@ hopstepjump = {
 }
 
 #### support ####
-br = u"\n"
+br = u'\n'
 def header_line(txt):
-	return u"="*len(txt)*2 + br
+	return u'='*len(txt)*2 + br
 
 #### for make .rst files ####
+def sphinx_index(txt):
+	return (u'.. contents:: %s\n   :local:' % txt).encode('utf-8')
+
 def sphinx_title(txt):
 	title_line = header_line(txt)
 	return br.join([br,txt,title_line]).encode('utf-8')
@@ -42,14 +45,17 @@ def sphinx_body_image(name,url,txt):
 	line = u'='*len(name) + u'  ' + u'='*len(txt) + br
 
 	if br in txt:
-		txts = txt.splitlines()
-		txt = reduce(lambda x,y: x + u'\n{name_space}  |'.format( name_space=u' '*len(name) ) + y,txts)
+		txts = txt.replace(u'<br />',br).splitlines()
+		txt = reduce(lambda x,y: x + u'\n{name_space}  | '.format( name_space=u' '*len(name) ) + y,txts)
 
-	return (image + option + line + name + u'  |' + txt + br + line).encode('utf-8')
+	return (image + option + line + name + u'  | ' + txt + br + line).encode('utf-8')
 
 
 #### main ####
 if __name__ == '__main__':
+
+	print( sphinx_index(u'目次') )
+
 	choice = 'hop'
 
 	page = hopstepjump[choice]
