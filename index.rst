@@ -12,7 +12,8 @@ Contents:
    :maxdepth: 3
 
    hop
-   test
+   step
+   jump
 
 
 Indices and tables

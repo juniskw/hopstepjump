@@ -1,8 +1,8 @@
 #! /usr/bin/env python
 # *-*coding:utf-8*-*
+import sys,re,urllib2
 
 from BeautifulSoup import BeautifulSoup
-import re,urllib2
 
 base_url = 'http://kaigoouen.net'
 hopstepjump = {
@@ -54,11 +54,17 @@ def sphinx_body_image(name,url,txt):
 #### main ####
 if __name__ == '__main__':
 
+	try:
+		choice = sys.argv[1]
+		page = hopstepjump[choice]
+	except IndexError:
+		print("[エラー]：オプションが必要です（'hop'か'step'か'jump'のいずれか）。")
+		exit("    - 例： 'python %s hop'" % sys.argv[0])
+	except KeyError:
+		print("[エラー]：オプションが違います（'hop'か'step'か'jump'のいずれか）。")
+		exit("    - 例： 'python %s hop'" % sys.argv[0])
+
 	print( sphinx_index(u'目次') )
-
-	choice = 'hop'
-
-	page = hopstepjump[choice]
 
 	p = 1
 	while p <= page['last_page']:
