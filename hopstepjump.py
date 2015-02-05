@@ -7,14 +7,17 @@ from BeautifulSoup import BeautifulSoup
 base_url = 'http://kaigoouen.net'
 hopstepjump = {
 	'hop':{
+		'title':u'ホップ',
 		'index':2,
 		'last_page':25,
 	},
 	'step':{
+		'title':u'ステップ',
 		'index':3,
 		'last_page':39,
 	},
 	'jump':{
+		'title':u'ジャンプ',
 		'index':4,
 		'last_page':46,
 	},
@@ -26,10 +29,13 @@ def header_line(txt):
 	return u'='*len(txt)*2 + br
 
 #### for make .rst files ####
+def sphinx_title(txt):
+	return ( header_line(txt) + txt + br + header_line(txt) + br ).encode('utf-8')
+
 def sphinx_index(txt):
 	return (u'.. contents:: %s\n   :local:' % txt).encode('utf-8')
 
-def sphinx_title(txt):
+def sphinx_head(txt):
 	title_line = header_line(txt)
 	return br.join([br,txt,title_line]).encode('utf-8')
 
@@ -64,6 +70,8 @@ if __name__ == '__main__':
 		print("[エラー]：オプションが違います（'hop'か'step'か'jump'のいずれか）。")
 		exit("    - 例： 'python %s hop'" % sys.argv[0])
 
+	print( sphinx_title(page['title']) )
+
 	print( sphinx_index(u'目次') )
 
 	p = 1
@@ -81,7 +89,7 @@ if __name__ == '__main__':
 			if lessons is not None:
 
 				title = box.contents[1].contents[0]['alt']
-				print( sphinx_title(title) )
+				print( sphinx_head(title) )
 
 				texts = lessons.findAll('div',{'class':'%s_txt' % choice})
 				images = lessons.findAll('div',{'class':'%s_image' % choice})
