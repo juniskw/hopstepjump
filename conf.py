@@ -28,7 +28,19 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['sphinx.ext.autodoc','rst2pdf.pdfbuilder']	#
+
+##### for pdf ####
+pdf_documents = [
+	('hop','step','jump'),
+]
+
+pdf_stylesheets = ['sphinx','kerning','a4','ja']
+
+pdf_font_path = ['/vagrant/Library/Fonts']	#check!
+
+pdf_language = 'ja'
+#################
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
