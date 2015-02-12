@@ -14,6 +14,7 @@ Contents:
    hop
    step
    jump
+   test
 
 
 Indices and tables

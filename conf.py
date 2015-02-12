@@ -260,15 +260,15 @@ texinfo_documents = [
 
 
 ##### for pdf #####
-extensions += ['rst2pdf.pdfbuilder']
+extensions += ['sphinx.ext.autodoc','rst2pdf.pdfbuilder','sphinx.ext.graphviz']
 
 pdf_documents = [
-	('hop',u'HOP',u'HOP','juniskw'),
+	('test',u'Test',u'TEST',u'juniskwだ'),
 ]
 
 pdf_stylesheets = ['sphinx','kerning','a4','ja']
 
-pdf_font_path = ['/vagrant/Library/Fonts']	#check!
+pdf_font_path = ['/home/vagrant/fonts','/home/vagrant/www/public/hopstepjump/fonts','/vagrant/Library/Fonts']	#check!
 
 pdf_language = 'ja'
 #################

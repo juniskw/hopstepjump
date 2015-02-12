@@ -1,28 +1,32 @@
 {
-	'embeddedFonts':[
-		'VL-Gothic-Regular.ttf',
-		'VL-PGothic-Regular.ttf',
+	"embeddedFonts":[
+		"VL-Gothic-Regular.ttf",
+		"VL-PGothic-Regular.ttf",
+		"ipam.ttf",
+		"ipag.ttf",
+		"ipagp.ttf",
+		"opamp.ttf"
 	],
-	'fontAlias':{
-		'stdFont':'VL-PGothic-Regular',
-		'stdBold':'VL-PGothic-Regular',
-		'stdItalic':'VL-PGothic-Regular',
-		'stdBoldItalic':'VL-PGothic-Regular',
-		'stdMono':'VL-Gothic-Regular',
-		'stdMonoBold':'VL-Gothic-Regular',
-		'stdMonoItalic':'VL-Gothic-Regular',
-		'stdMonoBoldItalic':'VL-Gothic-Regular',
-		'stdSans':'VL-Gothic-Regular',
-		'stdSansBold':'VL-Gothic-Regular',
-		'stdSansItalic':'VL-Gothic-Regular',
-		'stdSansBoldItalic':'VL-Gothic-Regular',
+	"fontAlias":{
+		"stdFont":"VL-PGothic-Regular",
+		"stdBold":"VL-PGothic-Regular",
+		"stdItalic":"VL-PGothic-Regular",
+		"stdBoldItalic":"VL-PGothic-Regular",
+		"stdMono":"VL-Gothic-Regular",
+		"stdMonoBold":"VL-Gothic-Regular",
+		"stdMonoItalic":"VL-Gothic-Regular",
+		"stdMonoBoldItalic":"VL-Gothic-Regular",
+		"stdSans":"VL-Gothic-Regular",
+		"stdSansBold":"VL-Gothic-Regular",
+		"stdSansItalic":"VL-Gothic-Regular",
+		"stdSansBoldItalic":"VL-Gothic-Regular"
 	},
-	'styles':[
-		['base',{
-			'wordWrap':'CJK',		  
+	"styles":[
+		["base",{
+			"wordWrap":"CJK"
 		}],
-		['literal',{
-			'wordWrap:'None',		  
+		["literal",{
+			"wordWrap":"None"
 		}]
 	]
 }

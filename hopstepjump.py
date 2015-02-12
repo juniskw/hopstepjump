@@ -32,8 +32,8 @@ def header_line(txt):
 def sphinx_title(txt):
 	return ( header_line(txt) + txt + br + header_line(txt) + br ).encode('utf-8')
 
-def sphinx_index(txt):
-	return (u'.. contents:: %s\n   :local:' % txt).encode('utf-8')
+#def sphinx_index(txt):
+#	return (u'.. contents:: %s\n   :local:' % txt).encode('utf-8')
 
 def sphinx_head(txt):
 	title_line = header_line(txt)
@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
 	print( sphinx_title(page['title']) )
 
-	print( sphinx_index(u'目次') )
+#	print( sphinx_index(u'目次') )
 
 	p = 1
 	while p <= page['last_page']:
