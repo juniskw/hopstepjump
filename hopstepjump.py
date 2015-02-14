@@ -39,22 +39,18 @@ def sphinx_head(txt):
 	title_line = header_line(txt)
 	return br.join([br,txt,title_line]).encode('utf-8')
 
-def sphinx_body_image(name,url,txt):
-	name = u'|%s|' % name
+def sphinx_body_image(url,txt):
+	txt = txt.decode('utf-8').replace(u'<br />',br)
 
-	txt = txt.decode('utf-8')
+	image = u'.. image:: %s' % url
 
-	image = u'\n.. {name} image:: {url}\n'.format(name=name,url=url)
-
-	option = u'   :alt: 参考画像' + br*2
-
-	line = u'='*len(name) + u'  ' + u'='*len(txt) + br
+	line = u'='*len(image) + u'  ' + u'='*len(txt) + br
 
 	if br in txt:
-		txts = txt.replace(u'<br />',br).splitlines()
-		txt = reduce(lambda x,y: x + u'\n{name_space}  | '.format( name_space=u' '*len(name) ) + y,txts)
+		txts = txt.splitlines()
+		txt = reduce(lambda x,y: x + u'\n{space}  | '.format(space=u' '*len(image)) + y,txts)
 
-	return (image + option + line + name + u'  | ' + txt + br + line).encode('utf-8')
+	return (line + image + u'  | ' + txt + br + line).encode('utf-8')
 
 
 #### main ####
@@ -71,8 +67,6 @@ if __name__ == '__main__':
 		exit("    - 例： 'python %s hop'" % sys.argv[0])
 
 	print( sphinx_title(page['title']) )
-
-#	print( sphinx_index(u'目次') )
 
 	p = 1
 	while p <= page['last_page']:
@@ -97,9 +91,8 @@ if __name__ == '__main__':
 
 				for image in images:
 					src = base_url + image.contents[0]['src']
-					name = re.search(r'pic_\d+',src).group(0)
 					text = texts.next().renderContents()
-					print( sphinx_body_image(name,src,text) )
+					print( sphinx_body_image(src,text) )
 
 		htmldata.close()
 		p += 1
