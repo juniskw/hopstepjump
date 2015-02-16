@@ -26,14 +26,11 @@ hopstepjump = {
 #### support ####
 br = u'\n'
 def header_line(txt):
-	return u'='*len(txt)*2 + br
+	return u'='*30 + br	# use absolute width
 
 #### for make .rst files ####
 def sphinx_title(txt):
 	return ( header_line(txt) + txt + br + header_line(txt) + br ).encode('utf-8')
-
-#def sphinx_index(txt):
-#	return (u'.. contents:: %s\n   :local:' % txt).encode('utf-8')
 
 def sphinx_head(txt):
 	title_line = header_line(txt)
@@ -44,13 +41,13 @@ def sphinx_body_image(url,txt):
 
 	image = u'.. image:: %s' % url
 
-	line = u'='*len(image) + u'  ' + u'='*len(txt) + br
+	line = u'='*56 + u'  ' + u'='*80 + br	# use absolute width
 
 	if br in txt:
 		txts = txt.splitlines()
-		txt = reduce(lambda x,y: x + u'\n{space}  | '.format(space=u' '*len(image)) + y,txts)
+		txt = reduce(lambda x,y: x + u'\n{space}  | '.format(space=u' '*56) + y,txts)	# use absolute width
 
-	return (line + image + u'  | ' + txt + br + line).encode('utf-8')
+	return (line + image + u'{space}  | '.format(space=u' '*(56-len(image))) + txt + br + line).encode('utf-8')	# use absolute width
 
 
 #### main ####
