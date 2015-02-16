@@ -268,7 +268,7 @@ pdf_documents = [
 
 pdf_stylesheets = ['sphinx','kerning','a4','ja']
 
-pdf_font_path = ['/home/vagrant/fonts','/home/vagrant/www/public/hopstepjump/fonts','/vagrant/Library/Fonts']	#check!
+pdf_font_path = []	#check!
 
 pdf_language = 'ja'
 #################
