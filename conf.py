@@ -263,18 +263,14 @@ texinfo_documents = [
 extensions += ['sphinx.ext.autodoc','rst2pdf.pdfbuilder','sphinx.ext.graphviz']
 
 pdf_documents = [
-	('hop',u'Hop',u'HOP',u'juniskw'),
-	('step',u'Step',u'STEP',u'juniskw'),
-	('jump',u'Jump',u'JUMP',u'juniskw'),
+	('hop',u'Hop',u'健歩体操〜ホップ',u'juniskw'),
+	('step',u'Step',u'健歩体操〜ステップ',u'juniskw'),
+	('jump',u'Jump',u'健歩体操〜ジャンプ',u'juniskw'),
 ]
-
-pdf_use_toc = False
 
 pdf_stylesheets = ['sphinx','kerning','a4','ja']
 
-pdf_font_path = []	#check!
+pdf_font_path = []
 
 pdf_language = 'ja'
-
-pdf_break_level = 0
 #################
