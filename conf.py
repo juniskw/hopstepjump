@@ -262,16 +262,19 @@ texinfo_documents = [
 ##### for pdf #####
 extensions += ['sphinx.ext.autodoc','rst2pdf.pdfbuilder','sphinx.ext.graphviz']
 
-#pdf_documents = [
-#	('hop',u'Hop',u'HOP',u'juniskw'),
-#]
 pdf_documents = [
 	('hop',u'Hop',u'HOP',u'juniskw'),
+	('step',u'Step',u'STEP',u'juniskw'),
+	('jump',u'Jump',u'JUMP',u'juniskw'),
 ]
+
+pdf_use_toc = False
 
 pdf_stylesheets = ['sphinx','kerning','a4','ja']
 
 pdf_font_path = []	#check!
 
 pdf_language = 'ja'
+
+pdf_break_level = 0
 #################

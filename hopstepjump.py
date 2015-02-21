@@ -7,17 +7,14 @@ from BeautifulSoup import BeautifulSoup
 base_url = 'http://kaigoouen.net'
 hopstepjump = {
 	'hop':{
-		'title':u'ホップ',
 		'index':2,
 		'last_page':25,
 	},
 	'step':{
-		'title':u'ステップ',
 		'index':3,
 		'last_page':39,
 	},
 	'jump':{
-		'title':u'ジャンプ',
 		'index':4,
 		'last_page':46,
 	},
@@ -25,14 +22,13 @@ hopstepjump = {
 
 #### support ####
 br = u'\n'
+
+page_break = u".. raw:: pdf\n\n   PageBreak"
+
 def header_line(txt):
 	return u'='*30 + br	# use absolute width
 
 #### for make .rst files ####
-def sphinx_title(txt):
-	return ( header_line(txt) + txt + br + header_line(txt) + br ).encode('utf-8')
-
-
 def sphinx_head(txt):
 	title_line = header_line(txt)
 	return br.join([br,txt,title_line]).encode('utf-8')
@@ -73,8 +69,6 @@ if __name__ == '__main__':
 		print("[エラー]：オプションが違います（'hop'か'step'か'jump'のいずれか）。")
 		exit("    - 例： 'python %s hop'" % sys.argv[0])
 
-	print( sphinx_title(page['title']) )
-
 	p = 1
 	while p <= page['last_page']:
 		url = base_url + '/program/gymnastics/gymnastics_{index}_{page}.html'.format(index=page['index'],page=p)
@@ -104,7 +98,8 @@ if __name__ == '__main__':
 					text = sphinx_text(text)
 
 					print( sphinx_listtable(image,text) )
-					
+
+				print(page_break)					
 
 		htmldata.close()
 		p += 1
