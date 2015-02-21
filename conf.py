@@ -266,7 +266,7 @@ extensions += ['sphinx.ext.autodoc','rst2pdf.pdfbuilder','sphinx.ext.graphviz']
 #	('hop',u'Hop',u'HOP',u'juniskw'),
 #]
 pdf_documents = [
-	('test',u'Test',u'TEST',u'juniskw'),
+	('hop',u'Hop',u'HOP',u'juniskw'),
 ]
 
 pdf_stylesheets = ['sphinx','kerning','a4','ja']

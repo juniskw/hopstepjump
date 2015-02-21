@@ -32,22 +32,32 @@ def header_line(txt):
 def sphinx_title(txt):
 	return ( header_line(txt) + txt + br + header_line(txt) + br ).encode('utf-8')
 
+
 def sphinx_head(txt):
 	title_line = header_line(txt)
 	return br.join([br,txt,title_line]).encode('utf-8')
 
-def sphinx_body_image(url,txt):
-	txt = txt.decode('utf-8').replace(u'<br />',br)
 
-	image = u'.. image:: %s' % url
+def sphinx_listtable(img,txt):
+	table = u".. list-table::" + br
+	image = u"   * - %s" % img
+	text = u"     - | %s" % txt
 
-	line = u'='*56 + u'  ' + u'='*80 + br	# use absolute width
+	return br.join([table,image,text,br]).encode('utf-8')
 
-	if br in txt:
-		txts = txt.splitlines()
-		txt = reduce(lambda x,y: x + u'\n{space}  | '.format(space=u' '*56) + y,txts)	# use absolute width
 
-	return (line + image + u'{space}  | '.format(space=u' '*(56-len(image))) + txt + br + line).encode('utf-8')	# use absolute width
+def sphinx_image(src):
+	option = u":width: 200pt"
+	return u".. image:: %s" % src + br + u"          %s" % option
+
+
+def sphinx_text(text):
+	text = text.decode('utf-8').replace(u"<br />",br)
+	if br in text:
+		texts = text.splitlines()
+		text = reduce(lambda x,y: x +  br + u"       | " + y,texts)
+
+	return text
 
 
 #### main ####
@@ -88,8 +98,13 @@ if __name__ == '__main__':
 
 				for image in images:
 					src = base_url + image.contents[0]['src']
+					image = sphinx_image(src)
+
 					text = texts.next().renderContents()
-					print( sphinx_body_image(src,text) )
+					text = sphinx_text(text)
+
+					print( sphinx_listtable(image,text) )
+					
 
 		htmldata.close()
 		p += 1
