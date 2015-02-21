@@ -6,21 +6,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_01.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_02.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_03.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -38,21 +38,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_04.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【口すぼめ呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_05.jpg
-          :width: 200pt
+          :width: 150pt
      - | 鼻から、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_06.jpg
-          :width: 200pt
+          :width: 150pt
      - | 口をすぼめて、口から、ゆっくり吐いて。
        | 
        | 
@@ -70,7 +70,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_07.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腹式呼吸】をしましょう。
        | 
        | 右手を胸にあて、左手をお腹にあてます。
@@ -79,7 +79,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_08.jpg
-          :width: 200pt
+          :width: 150pt
      - | 鼻から、ゆっくり息を吸って、
        | 
        | （お腹が膨らむことを意識しましょう）
@@ -88,7 +88,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_09.jpg
-          :width: 200pt
+          :width: 150pt
      - | 口から、ゆっくり吐いて。
        | 
        | 
@@ -106,7 +106,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_10.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【手首の体操1】をしましょう。
        | 
        | 腕を下ろして、肩の力を抜きます。
@@ -115,14 +115,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_11.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり手首を回転（内回し、外回しどちらでも）させましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_12.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じ動きを、10回繰り返しましょう。
 
 
@@ -137,21 +137,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_13.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【手首の体操２】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_14.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手首を外側に曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_15.jpg
-          :width: 200pt
+          :width: 150pt
      - | 内側に曲げます。
        | 
        | 
@@ -169,7 +169,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_16.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩の体操】をしましょう。
        | 
        | 円を描くように、肩を回します。
@@ -178,7 +178,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_17.jpg
-          :width: 200pt
+          :width: 150pt
      - | 最初は前回しです。
        | 
        | 肩を後ろに回し、
@@ -187,21 +187,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_18.jpg
-          :width: 200pt
+          :width: 150pt
      - | 上から、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_19.jpg
-          :width: 200pt
+          :width: 150pt
      - | 前に回して、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_20.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -211,7 +211,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_21.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、後回しです。
        | 
        | 肩を前に回して、
@@ -220,21 +220,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_22.jpg
-          :width: 200pt
+          :width: 150pt
      - | 上から、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_23.jpg
-          :width: 200pt
+          :width: 150pt
      - | 後ろに回して、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_24.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -252,21 +252,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_25.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩甲骨の体操１】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_26.jpg
-          :width: 200pt
+          :width: 150pt
      - | 肩甲骨を上に上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_27.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろします。
        | 
        | 
@@ -284,28 +284,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_28.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩甲骨の体操２】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_29.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手のひらを上にして、両手を前に出します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_30.jpg
-          :width: 200pt
+          :width: 150pt
      - | 左右の肩甲骨を近づけるように、両手を開き、胸を張り、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_31.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -323,28 +323,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_32.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腰ゆらし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_33.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を腰に当てます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_34.jpg
-          :width: 200pt
+          :width: 150pt
      - | リラックスした状態で、腰を左右に揺らします。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_35.jpg
-          :width: 200pt
+          :width: 150pt
      - | 左右にゆらしながら、30秒くらい続けましょう。
 
 
@@ -359,7 +359,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_36.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腰の曲げ伸ばし体操】をしましょう。
        | 
        | タオルを両手に持ちます。
@@ -368,28 +368,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_37.jpg
-          :width: 200pt
+          :width: 150pt
      - | タオルを持ったまま、両手を伸ばし、胸の高さまで上げます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_38.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次に、上体を深く前に曲げ、そのままの状態で15秒数えます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_37.jpg
-          :width: 200pt
+          :width: 150pt
      - | 続いて、上体をゆっくり起こし、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_39.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を頭の上まで上げたまま、15秒数えます。
        | 
        | この時、腰を伸ばすようにしましょう。
@@ -406,7 +406,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_40.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【からだひねり体操】をしましょう。
        | 
        | タオルを両手に持ちます。
@@ -415,14 +415,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_41.jpg
-          :width: 200pt
+          :width: 150pt
      - | タオルを持ったまま、両手を伸ばし、胸の高さまで上げ,
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_42.jpg
-          :width: 200pt
+          :width: 150pt
      - | 横にひねります。
        | 
        | そのままの状態で、10秒くらいした後、
@@ -431,14 +431,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_41.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_43.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、逆にひねりましょう。
        | 
        | これも、10秒くらい行いましょう。
@@ -455,21 +455,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_44.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腕振り体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_45.jpg
-          :width: 200pt
+          :width: 150pt
      - | 体をひねることを意識しながら、右左交互に腕を振ります。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_46.jpg
-          :width: 200pt
+          :width: 150pt
      - | 右、左で1回、右、左で2回と、20回繰り返しましょう。
 
 
@@ -484,21 +484,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_01.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_02.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_03.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -516,21 +516,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_47.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足首・足指の体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_48.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を組んで、つま先を持ち、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_49.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足首を回します。
        | 
        | 
@@ -540,21 +540,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_50.jpg
-          :width: 200pt
+          :width: 150pt
      - | 反対の足も同じように、10回行います。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_51.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次に、両足の指を曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_52.jpg
-          :width: 200pt
+          :width: 150pt
      - | 伸ばします。
        | 
        | 同じように、10回繰り返しましょう。
@@ -571,7 +571,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_53.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足首パタパタ体操】をしましょう。
        | 
        | 
@@ -581,14 +581,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_54.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、ゆっくりつま先を上げて、戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_55.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、ゆっくりかかとを上げて、戻します。
        | 
        | 
@@ -606,7 +606,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_56.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【握って開いて体操】をしましょう。
        | 
        | 
@@ -616,7 +616,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_57.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を開いて、腕を前に出します。
        | 
        | 足を伸ばした方が、楽に行うことができます。
@@ -625,14 +625,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_58.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、ゆっくり手と足の指を握り、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_59.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、ゆっくり開きます。
        | 
        | 
@@ -650,7 +650,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_60.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足ひねり体操】をしましょう。
        | 
        | 
@@ -660,28 +660,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_61.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を伸ばして、肩幅くらいに開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_62.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとを支点にして、つま先を外側に開き、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_63.jpg
-          :width: 200pt
+          :width: 150pt
      - | 内側に曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_61.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -699,7 +699,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_64.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足開き体操】をしましょう。
        | 
        | 
@@ -711,14 +711,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_65.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとをつけたまま、膝を外側に開き、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_66.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -736,21 +736,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_67.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝裏伸ばし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_68.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片膝を伸ばし、両手を足のつけ根に置き、つま先を上に向けます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_69.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 息を止めずに、15秒間そのままにして、
@@ -759,14 +759,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_70.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_71.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -776,7 +776,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_72.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 息を止めずに、15秒間そのままにした後、戻します。
@@ -793,7 +793,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_73.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足上げ体操】をしましょう。
        | 
        | 
@@ -805,21 +805,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_74.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片膝を伸ばし、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_75.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ」と声を出しながら、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_76.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -829,21 +829,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_77.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_78.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、「イチ」と声を出しながら、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_79.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -861,7 +861,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_80.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝伸ばし体操】をしましょう。
        | 
        | 
@@ -871,14 +871,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_81.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と、声を出しながら、ゆっくり、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_82.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -888,7 +888,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_83.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -898,7 +898,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_84.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -916,28 +916,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_85.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って太ももの前伸ばし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_86.jpg
-          :width: 200pt
+          :width: 150pt
      - | いすに、浅く腰かけます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_87.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片手でいすをしっかりつかみ、片足を下ろし、足を前後に開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_88.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろした足のももから、足のつけ根を、さらに伸ばしましょう。
        | 
        | 伸ばした状態で、15秒数えます。
@@ -946,21 +946,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_86.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_89.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、片手でいすをしっかりつかみ、片足を下ろし、足を前後に開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_90.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろした足のももから、足のつけ根を、さらに伸ばしましょう。
        | 
        | 伸ばした状態で、15秒数えます。
@@ -977,21 +977,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_91.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_92.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_93.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1009,7 +1009,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_94.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【姿勢を正して立つ練習】をしましょう。
        | 
        | 
@@ -1019,7 +1019,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_95.jpg
-          :width: 200pt
+          :width: 150pt
      - | 頭が上に引っ張られるように、伸び上がったあと、軽く力を抜きます。
        | 
        | その姿勢のまま、10秒くらい保ちましょう。
@@ -1036,7 +1036,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_96.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って足踏み】をしましょう。
        | 
        | 
@@ -1046,7 +1046,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_97.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を前後に軽く振りながら、足踏みをしましょう。
        | 
        | 回数を「イチ」、「ニ」と声を出しながら行います。
@@ -1055,7 +1055,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_98.jpg
-          :width: 200pt
+          :width: 150pt
      - | 右、左で1回、右、左で2回と、20回繰り返しましょう。
 
 
@@ -1070,21 +1070,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_99.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【片足立ち】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_100.jpg
-          :width: 200pt
+          :width: 150pt
      - | 安全のため、いすや壁につかまって、行います。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_101.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片足を上げ、その姿勢を保ちます。
        | 
        | そのままの姿勢を、5秒間保つことを目標にしましょう。
@@ -1093,14 +1093,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_100.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_102.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、片足を上げ、その姿勢を保ちます。
        | 
        | そのままの姿勢を、5秒間保つことを目標にしましょう。
@@ -1117,7 +1117,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_103.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【通常歩行の練習】をしましょう。
        | 
        | 
@@ -1127,35 +1127,35 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_104.jpg
-          :width: 200pt
+          :width: 150pt
      - | 視線を上げ、手を振って歩きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_105.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_106.jpg
-          :width: 200pt
+          :width: 150pt
      - | つま先でけり出します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_107.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を振って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/hop_pic_108.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて・・・つま先でけり出す、を繰り返しながら、歩きましょう。
 
 

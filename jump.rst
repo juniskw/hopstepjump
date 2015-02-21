@@ -6,21 +6,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_01.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_02.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_03.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -38,21 +38,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_04.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【口すぼめ呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_05.jpg
-          :width: 200pt
+          :width: 150pt
      - | 鼻から、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_06.jpg
-          :width: 200pt
+          :width: 150pt
      - | 口をすぼめて、口から、ゆっくり吐いて。
        | 
        | 
@@ -70,7 +70,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_07.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腹式呼吸】をしましょう。
        | 
        | 右手を胸にあて、左手をお腹にあてます。
@@ -79,7 +79,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_08.jpg
-          :width: 200pt
+          :width: 150pt
      - | 鼻から、ゆっくり息を吸って、
        | 
        | （お腹が膨らむことを意識しましょう）
@@ -88,7 +88,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_09.jpg
-          :width: 200pt
+          :width: 150pt
      - | 口から、ゆっくり吐いて。
        | 
        | 
@@ -106,7 +106,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_10.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【手首の体操1】をしましょう。
        | 
        | 腕を下ろして、肩の力を抜きます。
@@ -115,14 +115,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_11.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり手首を回転（内回し、外回しどちらでも）させましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_12.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じ動きを、10回繰り返しましょう。
 
 
@@ -137,21 +137,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_13.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【手首の体操２】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_14.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手首を外側に曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_15.jpg
-          :width: 200pt
+          :width: 150pt
      - | 内側に曲げます。
        | 
        | 
@@ -169,7 +169,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_16.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩の体操】をしましょう。
        | 
        | 円を描くように、肩を回します。
@@ -178,7 +178,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_17.jpg
-          :width: 200pt
+          :width: 150pt
      - | 最初は前回しです。
        | 
        | 肩を後ろに回し、
@@ -187,21 +187,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_18.jpg
-          :width: 200pt
+          :width: 150pt
      - | 上から、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_19.jpg
-          :width: 200pt
+          :width: 150pt
      - | 前に回して、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_20.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -211,7 +211,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_21.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、後回しです。
        | 
        | 肩を前に回して、
@@ -220,21 +220,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_22.jpg
-          :width: 200pt
+          :width: 150pt
      - | 上から、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_23.jpg
-          :width: 200pt
+          :width: 150pt
      - | 後ろに回して、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_24.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -252,21 +252,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_25.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩甲骨の体操１】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_26.jpg
-          :width: 200pt
+          :width: 150pt
      - | 肩甲骨を上に上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_27.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろします。
        | 
        | 
@@ -284,28 +284,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_28.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【肩甲骨の体操２】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_29.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手のひらを上にして、両手を前に出します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_30.jpg
-          :width: 200pt
+          :width: 150pt
      - | 左右の肩甲骨を近づけるように、両手を開き、胸を張り、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_31.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -323,28 +323,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_32.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腰ゆらし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_33.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を腰に当てます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_34.jpg
-          :width: 200pt
+          :width: 150pt
      - | リラックスした状態で、腰を左右に揺らします。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_35.jpg
-          :width: 200pt
+          :width: 150pt
      - | 左右にゆらしながら、30秒くらい続けましょう。
 
 
@@ -359,7 +359,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_36.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腰の曲げ伸ばし体操】をしましょう。
        | 
        | タオルを両手に持ちます。
@@ -368,28 +368,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_37.jpg
-          :width: 200pt
+          :width: 150pt
      - | タオルを持ったまま、両手を伸ばし、胸の高さまで上げます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_38.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次に、上体を深く前に曲げ、そのままの状態で15秒数えます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_37.jpg
-          :width: 200pt
+          :width: 150pt
      - | 続いて、上体をゆっくり起こし、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_39.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を頭の上まで上げたまま、15秒数えます。
        | 
        | この時、腰を伸ばすようにしましょう。
@@ -406,7 +406,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_40.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【からだひねり体操】をしましょう。
        | 
        | タオルを両手に持ちます。
@@ -415,14 +415,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_41.jpg
-          :width: 200pt
+          :width: 150pt
      - | タオルを持ったまま、両手を伸ばし、胸の高さまで上げ,
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_42.jpg
-          :width: 200pt
+          :width: 150pt
      - | 横にひねります。
        | 
        | そのままの状態で、10秒くらいした後、
@@ -431,14 +431,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_41.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_43.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、逆にひねりましょう。
        | 
        | これも、10秒くらい行いましょう。
@@ -455,21 +455,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_44.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腕振り体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_45.jpg
-          :width: 200pt
+          :width: 150pt
      - | 体をひねることを意識しながら、右左交互に腕を振ります。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_46.jpg
-          :width: 200pt
+          :width: 150pt
      - | 右、左で1回、右、左で2回と、20回繰り返しましょう。
 
 
@@ -484,21 +484,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_01.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_02.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_03.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -516,21 +516,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_47.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足首・足指の体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_48.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を組んで、つま先を持ち、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_49.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足首を回します。
        | 
        | 
@@ -540,21 +540,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_50.jpg
-          :width: 200pt
+          :width: 150pt
      - | 反対の足も同じように、10回行います。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_51.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次に、両足の指を曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_52.jpg
-          :width: 200pt
+          :width: 150pt
      - | 伸ばします。
        | 
        | 同じように、10回繰り返しましょう。
@@ -571,7 +571,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_53.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足首パタパタ体操】をしましょう。
        | 
        | 
@@ -581,14 +581,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_54.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、ゆっくりつま先を上げて、戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_55.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、ゆっくりかかとを上げて、戻します。
        | 
        | 
@@ -606,7 +606,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_56.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【握って開いて体操】をしましょう。
        | 
        | 
@@ -616,7 +616,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_57.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を開いて、腕を前に出します。
        | 
        | 足を伸ばした方が、楽に行うことができます。
@@ -625,14 +625,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_58.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、ゆっくり手と足の指を握り、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_59.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、ゆっくり開きます。
        | 
        | 
@@ -650,7 +650,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_60.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足ひねり体操】をしましょう。
        | 
        | 
@@ -660,28 +660,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_61.jpg
-          :width: 200pt
+          :width: 150pt
      - | 足を伸ばして、肩幅くらいに開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_62.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとを支点にして、つま先を外側に開き、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_63.jpg
-          :width: 200pt
+          :width: 150pt
      - | 内側に曲げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_61.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -699,7 +699,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_64.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足開き体操】をしましょう。
        | 
        | 
@@ -711,14 +711,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_65.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとをつけたまま、膝を外側に開き、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_66.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -736,21 +736,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_67.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝裏伸ばし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_68.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片膝を伸ばし、両手を足のつけ根に置き、つま先を上に向けます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_69.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 息を止めずに、15秒間そのままにして、
@@ -759,14 +759,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_70.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_71.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -776,7 +776,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_72.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 息を止めずに、15秒間そのままにした後、戻します。
@@ -793,7 +793,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_73.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足上げ体操】をしましょう。
        | 
        | 
@@ -805,21 +805,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_74.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片膝を伸ばし、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_75.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ」と声を出しながら、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_76.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -829,21 +829,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_77.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_78.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、「イチ」と声を出しながら、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_79.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -861,7 +861,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_80.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝伸ばし体操】をしましょう。
        | 
        | 
@@ -871,14 +871,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_81.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と、声を出しながら、ゆっくり、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_82.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -888,7 +888,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_83.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -898,7 +898,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_84.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -916,28 +916,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_85.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って太ももの前伸ばし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_86.jpg
-          :width: 200pt
+          :width: 150pt
      - | いすに、浅く腰かけます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_87.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片手でいすをしっかりつかみ、片足を下ろし、足を前後に開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_88.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろした足のももから、足のつけ根を、さらに伸ばしましょう。
        | 
        | 伸ばした状態で、15秒数えます。
@@ -946,21 +946,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_86.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_89.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、片手でいすをしっかりつかみ、片足を下ろし、足を前後に開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_90.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろした足のももから、足のつけ根を、さらに伸ばしましょう。
        | 
        | 伸ばした状態で、15秒数えます。
@@ -977,21 +977,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_01.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_02.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_03.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1009,7 +1009,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_94.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝伸ばし体操】をしましょう。
        | 
        | 
@@ -1019,14 +1019,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_95.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と、声を出しながら、ゆっくり、足を上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_96.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -1036,7 +1036,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_97.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -1046,7 +1046,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_98.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -1064,21 +1064,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_99.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_100.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_101.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1096,7 +1096,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_102.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【もも上げ体操】をしましょう。
        | 
        | 
@@ -1106,14 +1106,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_103.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と、声を出しながら、ゆっくり、ももを持ち上げ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_104.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -1123,7 +1123,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_105.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -1133,7 +1133,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_106.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、戻します。
        | 
        | 
@@ -1151,21 +1151,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_107.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_108.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_109.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1183,7 +1183,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_110.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【足開き体操】をしましょう。
        | 
        | 
@@ -1196,28 +1196,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_111.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_112.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり開き、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_113.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_114.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり戻します。
        | 
        | 
@@ -1227,7 +1227,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_115.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -1237,21 +1237,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_116.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり開きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_117.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_118.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり戻します。
        | 
        | 
@@ -1269,21 +1269,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_119.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_120.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_121.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1301,7 +1301,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_122.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って腹筋運動】をしましょう。
        | 
        | 
@@ -1311,21 +1311,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_123.jpg
-          :width: 200pt
+          :width: 150pt
      - | 背もたれに背中をつけ、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_124.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「イチ、ニ、サン、ヨン」と声を出しながら、身体を起こし、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_125.jpg
-          :width: 200pt
+          :width: 150pt
      - | 「ゴ、ロク、ナナ、ハチ」と声を出しながら、身体を戻します。
        | 
        | 
@@ -1343,21 +1343,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_126.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_127.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_128.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1375,28 +1375,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_129.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【椅子からの立ち上がり】をします。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_130.jpg
-          :width: 200pt
+          :width: 150pt
      - | 前かがみになりながら、「イチ」と回数を声に出して数え、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_131.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり立ち上がり、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_132.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり座ります。
        | 
        | 
@@ -1417,21 +1417,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_133.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_134.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_135.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
        | 
        | 
@@ -1449,28 +1449,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_136.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立ってかかと上げ】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_137.jpg
-          :width: 200pt
+          :width: 150pt
      - | 壁やいすなど、安定したものにつかまります。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_138.jpg
-          :width: 200pt
+          :width: 150pt
      - | そのまま、かかとを持ち上げて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_139.jpg
-          :width: 200pt
+          :width: 150pt
      - | 下ろします。
        | 
        | 
@@ -1488,28 +1488,28 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_140.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【腰ゆらし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_141.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を腰に当てます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_142.jpg
-          :width: 200pt
+          :width: 150pt
      - | リラックスした状態で、腰を左右に揺らします。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_143.jpg
-          :width: 200pt
+          :width: 150pt
      - | 左右にゆらしながら、10秒くらい続けましょう。
 
 
@@ -1524,7 +1524,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_144.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【からだひねり体操】をしましょう。
        | 
        | 
@@ -1534,14 +1534,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_145.jpg
-          :width: 200pt
+          :width: 150pt
      - | タオルを持ったまま、両手を伸ばし、胸の高さまで上げ,
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_146.jpg
-          :width: 200pt
+          :width: 150pt
      - | 横にひねります。
        | 
        | 
@@ -1551,14 +1551,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_147.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_148.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、逆にひねりましょう。
        | 
        | 
@@ -1576,21 +1576,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_149.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【膝裏伸ばし体操】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_150.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片膝を伸ばし、両手を足のつけ根に置き、つま先を上に向けます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_151.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 
@@ -1600,14 +1600,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_152.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_153.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
        | 
        | 
@@ -1617,7 +1617,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_154.jpg
-          :width: 200pt
+          :width: 150pt
      - | ゆっくり上半身を前に倒しましょう。
        | 
        | 
@@ -1635,21 +1635,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_155.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【座って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_156.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_157.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1667,21 +1667,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_158.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_159.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_160.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1699,7 +1699,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_161.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【姿勢を正して立つ練習】をしましょう。
        | 
        | 
@@ -1709,7 +1709,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_162.jpg
-          :width: 200pt
+          :width: 150pt
      - | 頭が上に引っ張られるように、伸び上がったあと、軽く力を抜きます。
        | 
        | 
@@ -1727,7 +1727,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_163.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って足踏み】をしましょう。
        | 
        | 
@@ -1737,7 +1737,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_164.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を前後に軽く振りながら、足踏みをしましょう。
        | 
        | 
@@ -1747,7 +1747,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_165.jpg
-          :width: 200pt
+          :width: 150pt
      - | 右、左で1回、右、左で2回と、20回繰り返しましょう。
 
 
@@ -1762,21 +1762,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_166.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【片足立ち】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_167.jpg
-          :width: 200pt
+          :width: 150pt
      - | 安全のため、いすや壁につかまって、行います。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_168.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片足を上げ、その姿勢を保ちます。
        | 
        | 
@@ -1786,14 +1786,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_169.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は、反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_170.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、片足を上げ、その姿勢を保ちます。
        | 
        | 
@@ -1811,7 +1811,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_171.jpg
-          :width: 200pt
+          :width: 150pt
      - | ももあげができるようになったら、
        | 
        | 
@@ -1821,7 +1821,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_172.jpg
-          :width: 200pt
+          :width: 150pt
      - | 安ももを上げ、反対側の手で、上げた足の膝にタッチしましょう。
        | 
        | 
@@ -1831,14 +1831,14 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_173.jpg
-          :width: 200pt
+          :width: 150pt
      - | 次は反対の足です。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_174.jpg
-          :width: 200pt
+          :width: 150pt
      - | 同じように、ももを上げ、反対側の手で、上げた足の膝にタッチしましょう。
        | 
        | 
@@ -1856,7 +1856,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_175.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【前ステップ】をしましょう。
        | 
        | 
@@ -1866,21 +1866,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_176.jpg
-          :width: 200pt
+          :width: 150pt
      - | 片足を、一歩前に踏み出し、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_177.jpg
-          :width: 200pt
+          :width: 150pt
      - | 踏み出した足に、体重を乗せて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_178.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -1890,21 +1890,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_179.jpg
-          :width: 200pt
+          :width: 150pt
      - | 反対の足も同じように、片足を一歩前に踏み出し、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_180.jpg
-          :width: 200pt
+          :width: 150pt
      - | 踏み出した足に、体重を乗せて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_181.jpg
-          :width: 200pt
+          :width: 150pt
      - | 戻します。
        | 
        | 
@@ -1922,21 +1922,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_182.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_183.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_184.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
@@ -1954,7 +1954,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_185.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【通常歩行の練習】をしましょう。
        | 
        | 
@@ -1964,35 +1964,35 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_186.jpg
-          :width: 200pt
+          :width: 150pt
      - | 視線を上げ、手を振って歩きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_187.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_188.jpg
-          :width: 200pt
+          :width: 150pt
      - | つま先でけり出します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_189.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を振って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_190.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて・・・つま先でけり出す、を繰り返しながら、歩きましょう。
 
 
@@ -2007,7 +2007,7 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_191.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【大また歩行の練習】をしましょう。
        | 
        | 
@@ -2017,35 +2017,35 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_192.jpg
-          :width: 200pt
+          :width: 150pt
      - | 視線を上げ、手を振って歩きます。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_193.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_194.jpg
-          :width: 200pt
+          :width: 150pt
      - | つま先でけり出します。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_195.jpg
-          :width: 200pt
+          :width: 150pt
      - | 手を振って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_196.jpg
-          :width: 200pt
+          :width: 150pt
      - | かかとからついて・・・つま先でけり出す、を繰り返しながら、歩きましょう。
 
 
@@ -2060,21 +2060,21 @@
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_197.jpg
-          :width: 200pt
+          :width: 150pt
      - | 【立って深呼吸】をしましょう。
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_198.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を広げながら、ゆっくり息を吸って、
 
 
 .. list-table::
 
    * - .. image:: http://kaigoouen.net/img/jump_pic_199.jpg
-          :width: 200pt
+          :width: 150pt
      - | 両手を元に戻しながら、ゆっくり吐いて。
        | 
        | 
