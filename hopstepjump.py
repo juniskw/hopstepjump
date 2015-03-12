@@ -33,9 +33,9 @@ def soup_to_sphinx(pg):
 
 	p = 1
 
-	while p <= page['last_page']:
+	while p <= pg['last_page']:
 
-		url = base_url + '/program/gymnastics/gymnastics_{index}_{page}.html'.format(index=page['index'],page=p)
+		url = base_url + '/program/gymnastics/gymnastics_{index}_{page}.html'.format(index=pg['index'],page=p)
 
 		htmldata = urllib2.urlopen(url)
 
